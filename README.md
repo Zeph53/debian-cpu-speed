@@ -12,7 +12,7 @@ Simply open a terminal and execute the script with "./cpu-speed.bash"
 ##
 Update Queue:
 
-WIP - There needs to be a MINIMUM speed prompt, so the min/max can be matched for true performance or powersavings.  
-WIP - There needs to be a numbered alias for selection of govenor modes to speed up the process. 
+WIP - There needs to be a MINIMUM speed prompt, so the min/max can be matched for true performance or powersavings. 
 
+WIP - There needs to be a numbered alias for selection of govenor modes to speed up the process of typing. 
 ##
