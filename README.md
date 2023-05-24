@@ -10,4 +10,5 @@ Simply open a terminal and execute the script with "./cpu-speed.bash"
 ##
 Update Queue:
 
-There needs to be a MINIMUM speed prompt, so the min/max can be matched for true performance.
+There needs to be a MINIMUM speed prompt, so the min/max can be matched for true performance or powersavings.
+There needs to be a numbered alias for selection of govenor modes to speed up the process.
