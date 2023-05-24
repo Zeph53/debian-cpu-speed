@@ -13,4 +13,6 @@ Update Queue:
 WIP - There needs to be a MINIMUM speed prompt, so the MIN/MAX can be matched for true governing. 
 
 WIP - There needs to be a numbered alias for selection of govenor modes to speed up the process of typing. 
+
+WIP - I want to create a CUI for this, without the need to run it through a terminal, like an application. It's as easy as rewriting it using a terminal emulator's command execution X wrapper - xfce4-teriminal -x bash -i -c "SCRIPT"
 ##
