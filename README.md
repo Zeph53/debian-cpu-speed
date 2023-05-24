@@ -7,6 +7,5 @@ It then scans for available CPU governor modes and proceeds to prompt the user a
 
 Simply open a terminal and execute the script with "./cpu-speed.bash"
 
-#
 ##
 Update Queue:
