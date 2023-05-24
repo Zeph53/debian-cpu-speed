@@ -6,3 +6,7 @@ It elegantly selects all available CPU cores, requests the user to type in a num
 It then scans for available CPU governor modes and proceeds to prompt the user and effortlessly applies the typed in selection to all available CPU cores.
 
 Simply open a terminal and execute the script with "./cpu-speed.bash"
+
+#
+##
+Update Queue:
