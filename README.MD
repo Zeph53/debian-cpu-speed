@@ -30,8 +30,11 @@ Simply execute the script.
     sudo cpu-speed.bash
 And then follow the directions presented by the terminal.  
 
+## Updates
+    Cleaned up code and added comments.  
 ## Update Queue:  
-    There needs to be a MINIMUM speed prompt, so the MIN/MAX can be matched for true governing.  
-    There needs to be a numbered alias for selection of govenor modes to speed up the process of typing.  
-    I want to create a CUI for this, without the need to run it through a terminal, like an application. It's as easy as rewriting it using a terminal emulator's command execution X wrapper - xfce4-teriminal -x bash -i -c "SCRIPT"  
+    Forcefully set the minimum speed to the minimum reported to the OS?  
+    There needs to be a MINIMUM speed prompt, so the MIN/MAX can be matched for true governing?  
+    There needs to be a numbered alias for selection of govenor modes to speed up the process of typing?  
+    CUI - xfce4-teriminal -x bash -i -c "SCRIPT"  
 ##  
