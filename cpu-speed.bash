@@ -39,8 +39,7 @@ printf "$SETMAXSCALE" |\
 read -e -p "$(\
   printf "Set the CPU governor mode ($(\
     cat $GOVERN |\
-      sort -u \
-  )) - Currently \"$(\
+      sort -u )) - Currently \"$(\
     cat $CURGOV |\
       sort -u |\
       sed 's/schedutil/default/g')\": ")"\
