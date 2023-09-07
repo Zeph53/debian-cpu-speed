@@ -34,7 +34,7 @@ And then follow the directions presented by the terminal.
     Cleaned up code and added comments.  
 ## Update Queue:  
     Forcefully set the minimum speed to the minimum reported to the OS?  
-    There needs to be a MINIMUM speed prompt, so the MIN/MAX can be matched for true governing?  ****
+    **** There needs to be a MINIMUM speed prompt, so the MIN/MAX can be matched for true governing?  
     There needs to be a numbered alias for selection of govenor modes to speed up the process of typing?  
     CUI - xfce4-teriminal -x bash -i -c "SCRIPT"  
 ##  
