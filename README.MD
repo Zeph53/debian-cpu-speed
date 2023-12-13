@@ -38,7 +38,11 @@ If you want to skip interacting with the terminal
     Cleaned up code and added comments.  
     Script can now be launched with desired MHz as arguments.
     Governors now have numbered aliases, now forced to select one.
-## Update Queue:  
+## Update Queue:
+    Clean up comment debris.
+    Make governors list a single line.
+    Make governors optional to select.
+    Fix schedutil typo again on LISTGOVERNS.
     Forcefully set the minimum speed to the minimum reported to the OS? (only if not adjusted) 
     *DONE There needs to be a MINIMUM speed prompt, so the MIN/MAX can be matched for true governing?  
     *DONE There needs to be a numbered alias for selection of govenor modes to speed up the process of typing?  
