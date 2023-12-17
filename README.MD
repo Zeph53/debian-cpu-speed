@@ -35,16 +35,20 @@ If you want to skip interacting with the terminal
     sudo cpu-speed.bash [MIN] [MAX]
 
 ## Updates
+    Added arguments as cpu-script.bash MIN MAX GOVERNOR (governor is not a number)
+    Fixed multiline governor list
+    Added numbered governor list
+    Added --help -h --? -?
     Cleaned up code and added comments.  
     Script can now be launched with desired MHz as arguments.
     Governors now have numbered aliases, now forced to select one.
 ## Update Queue:
-    Clean up comment debris.
-    Make governors list a single line.
-    Make governors optional to select.
+    Need to be able to type in the full governor mode
+    *Clean up comment debris.
+    *Make governors list a single line.
+    *Make governors optional to select.
     Fix schedutil typo again on LISTGOVERNS.
     Forcefully set the minimum speed to the minimum reported to the OS? (only if not adjusted) 
     *DONE There needs to be a MINIMUM speed prompt, so the MIN/MAX can be matched for true governing?  
     *DONE There needs to be a numbered alias for selection of govenor modes to speed up the process of typing?  
-    CUI - xfce4-teriminal -x bash -i -c "SCRIPT"  
 ##  
